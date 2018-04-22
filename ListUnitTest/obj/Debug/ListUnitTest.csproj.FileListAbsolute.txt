@@ -1,0 +1,15 @@
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\ListUnitTest.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\ListUnitTest.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\MyCollections.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\obj\Debug\ListUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\obj\Debug\ListUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\obj\Debug\ListUnitTest.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\ListUnitTest\obj\Debug\ListUnitTest.pdb

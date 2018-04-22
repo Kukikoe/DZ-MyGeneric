@@ -1,0 +1,6 @@
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.pdb

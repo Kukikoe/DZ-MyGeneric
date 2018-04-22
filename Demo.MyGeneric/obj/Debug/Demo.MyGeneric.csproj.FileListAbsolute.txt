@@ -1,0 +1,9 @@
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\bin\Debug\Demo.MyGeneric.exe.config
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\bin\Debug\Demo.MyGeneric.exe
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\bin\Debug\Demo.MyGeneric.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\bin\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\bin\Debug\MyCollections.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\obj\Debug\Demo.MyGeneric.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\obj\Debug\Demo.MyGeneric.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\obj\Debug\Demo.MyGeneric.exe
+C:\Users\Яна\source\repos\Demo.MyGeneric\Demo.MyGeneric\obj\Debug\Demo.MyGeneric.pdb
