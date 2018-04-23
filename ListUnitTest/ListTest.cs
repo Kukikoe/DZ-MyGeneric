@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MyCollections;
 
@@ -8,12 +9,20 @@ namespace ListUnitTest
     public class ListTest
     {
         [TestMethod]
-        public void CtorTest()
+        public void Ctor1Test()
         {
             MyList<int> list = new MyList<int>();
             Assert.AreNotEqual(null, list);
             Assert.AreEqual(0, list.Count);
             Assert.AreEqual(false, list.IsReadOnly);
+        }
+
+        [TestMethod]
+        public void Ctor2Test()
+        {
+            int[] arr = { 1, 2, 3, 4, 5, 6 };
+            MyList<int> list = new MyList<int>(arr);
+            Assert.AreEqual(6, list.Count);
         }
 
         [TestMethod]
@@ -130,21 +139,11 @@ namespace ListUnitTest
         }
 
         [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException))]
-        public void OutOfRangeTest_2()
+        public void IEnumerableTest()
         {
             MyList<int> list = new MyList<int>();
-            int x = list[-1];
+            Assert.IsTrue(list.GetEnumerator() is IEnumerator<int>);
         }
-
-        [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException))]
-        public void OutOfRangeTest_3()
-        {
-            MyList<int> list = new MyList<int>();
-            int x = list[1];
-        }
-
 
     }
 }

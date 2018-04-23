@@ -11,6 +11,7 @@ namespace Demo.MyGeneric
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

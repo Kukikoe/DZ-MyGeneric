@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyCollections
 {
-    public class MyList<T> : IList<T>, IEnumerator<int>
+    public class MyList<T> : IList<T>, IEnumerator<T>, IEnumerator
     {
         #region fields
         private T[] _arr;
@@ -61,7 +61,7 @@ namespace MyCollections
             }
         }
 
-        int IEnumerator<int>.Current => throw new NotImplementedException();
+       // int IEnumerator<T>.Current => throw new NotImplementedException();
         #endregion
 
         #region ctors
@@ -69,6 +69,13 @@ namespace MyCollections
         {
             _arr = new T[capacity];
             _count = 0;
+            _current_pos = -1;
+        }
+
+        public MyList(ICollection source)
+        {
+            _arr = new T[_count = source.Count];
+
             _current_pos = -1;
         }
         #endregion
