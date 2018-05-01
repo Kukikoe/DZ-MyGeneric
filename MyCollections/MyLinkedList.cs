@@ -42,7 +42,7 @@ namespace MyCollections
 
         }
         /// <summary>
-        /// 
+        /// Constructor
         /// </summary>
         /// <param name="array">for initialization initial data</param>
         public MyLinkedList(IEnumerable<T> array)

@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyDictionary.cs" />
     <Compile Include="MyLinkedList.cs" />
     <Compile Include="MyList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
